@@ -1,0 +1,9 @@
+2024-02-22 16:27:51,686: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-02-22 16:27:51,780: alpaca.trading.stream: INFO: connected to: BaseURL.TRADING_STREAM_PAPER
+2024-02-22 16:27:53,081: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-02-22 16:27:53,083: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-22 16:27:53,084: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-02-22 16:27:53,085: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-22 16:27:53,086: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-22 16:27:53[0m
+2024-02-22 16:27:53,086: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-22 16:27:53,951: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
